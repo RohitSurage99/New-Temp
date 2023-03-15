@@ -95,13 +95,7 @@ footer.more {
     padding: 8px 10px;
     background-color: #EC4D48;
 }
-p {
-    display: block;
-    margin-block-start: 5em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
+
 img {
     width: auto;
     max-width: 100%;
